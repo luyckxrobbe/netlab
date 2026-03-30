@@ -1,5 +1,5 @@
 <?php
-$file = "/var/ww/html/hackable/flags/fi.php";
+$file = "/var/www/html/hackable/flags/fi.php";
 
 if (file_exists($file)) {
     echo "<pre>";
