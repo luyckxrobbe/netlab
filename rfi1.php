@@ -1,5 +1,5 @@
 <?php
-$file = "../../hackable/flags/fi.php";
+$file = "/var/www/html/hackable/flags/fi.php";
 
 echo $file;
 
